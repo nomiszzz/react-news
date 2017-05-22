@@ -1,0 +1,26 @@
+html{
+    font-size: 50px;
+}
+#mobileHeader{
+    flex:1;
+    background: #f6f6f6;
+}
+#mobileHeader header{
+    border-bottom: 1px solid #2bd7f5;
+
+}
+#mobileHeader header img{
+    height: 50px;
+    padding-left: 6px;
+
+}
+#mobileHeader header span{
+    font-size: 35px;
+    vertical-align: top;
+    padding-left: 6px;
+    color: #2bd7f5;
+
+}
+#mobileFooter{
+    text-align: center;
+}
